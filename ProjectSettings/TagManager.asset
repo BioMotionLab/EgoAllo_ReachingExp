@@ -6,6 +6,10 @@ TagManager:
   tags:
   - movable
   - table_object
+  - 1
+  - 2
+  - 3
+  - monitor1
   layers:
   - Default
   - TransparentFX
@@ -15,8 +19,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Desk
+  - Breakfast Table
   - 
   - 
   - 
